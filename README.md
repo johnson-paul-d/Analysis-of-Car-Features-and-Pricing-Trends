@@ -1,5 +1,5 @@
 # Analysis-of-Car-Features-and-Pricing-Trends
-This analysis demonstrates my ability to clean data, create meaningful visualizations, and provide insights that translate raw data into a clear story about vehicle market trends.
+This analysis demonstrates my ability to clean data, create meaningful visualizations, and provide insights that translate __raw data into a clear story__ about vehicle market trends.
 
 - In this project, I analyzed a dataset of car specifications and pricing information to uncover trends and patterns within the automotive market, utilizing my skills as a Data Analyst. Through data cleaning, I ensured the dataset’s consistency by handling missing values in crucial columns such as Engine HP and Engine Cylinders. I then explored various aspects of vehicle features, including style, engine type, and MSRP (Manufacturer’s Suggested Retail Price), to draw meaningful insights.
 
@@ -12,13 +12,13 @@ This analysis demonstrates my ability to clean data, create meaningful visualiza
 
 ## Key Skills and Tools Used:
 
-Python Libraries: Pandas, Seaborn, Plotly, Matplotlib
-Data Cleaning: Identified and filled missing values for key columns such as Engine HP and Engine Cylinders
-Data Visualization: Created interactive and static plots for MSRP and other vehicle attributes to observe pricing trends across vehicle styles
-Statistical Analysis: Generated summary statistics and visual distributions to better understand the pricing and feature distribution
+__Python Libraries:__ Pandas, Seaborn, Plotly, Matplotlib <br>
+__Data Cleaning:__ Identified and filled missing values for key columns such as Engine HP and Engine Cylinders <br>
+__Data Visualization:__ Created interactive and static plots for MSRP and other vehicle attributes to observe pricing trends across vehicle styles <br>
+__Statistical Analysis:__ Generated summary statistics and visual distributions to better understand the pricing and feature distribution <br>
 
 ## Visualizations and Findings:
 
-MSRP Distribution by Vehicle Style: Histogram of MSRP values across different vehicle styles using Seaborn and Plotly, highlighting how different styles impact pricing.
-Engine Cylinder Insights: Identified trends in engine types across various vehicle models and filled missing values to ensure data consistency.
-Interactive Exploration: Utilized Plotly’s interactive capabilities for an in-depth look at pricing and feature correlations.
+__MSRP Distribution by Vehicle Style:__ Histogram of MSRP values across different vehicle styles using Seaborn and Plotly, highlighting how different styles impact pricing. <br>
+__Engine Cylinder Insights:__ Identified trends in engine types across various vehicle models and filled missing values to ensure data consistency. <br>
+__Interactive Exploration:__ Utilized Plotly’s interactive capabilities for an in-depth look at pricing and feature correlations. <br>
